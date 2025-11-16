@@ -606,8 +606,4 @@ If you encounter any issues or have questions:
 </div>
 
 
-#   N A M M A - A I  
- #   N A M M A - A I  
- #   N A M M A - A I  
- #   N A M M A - A I  
- 
+
